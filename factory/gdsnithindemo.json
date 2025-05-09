@@ -1,0 +1,9 @@
+{
+	"name": "gdsnithindemo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "645ebd61-591f-4c5f-90ec-d3399d06af71",
+		"tenantId": "6d8ebbcb-b75c-49d7-bdd7-732e048ce21d"
+	}
+}
